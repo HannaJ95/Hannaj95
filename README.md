@@ -1,4 +1,8 @@
-# 👋 Hej, jag är Hanna!
+# Hej, jag är Hanna!
+
+[LinkedIn](https://linkedin.com/in/hanna-johansson-b84aba289)  
+[Portfolio](https://hannajohansson01.se)  
+hannajohansson16@hotmail.com
 
 Webbutvecklingsstudent på Yrgo i Göteborg med fokus på fullstack. Jag gillar att bygga saker som faktiskt fungerar — från databas till gränssnitt. Just nu är jag inne på min andra termin av denna 2-åriga yrkesutbildning.
 
@@ -12,7 +16,9 @@ Webbutvecklingsstudent på Yrgo i Göteborg med fokus på fullstack. Jag gillar 
 
 **Backend:**  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+[![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
@@ -20,6 +26,7 @@ Webbutvecklingsstudent på Yrgo i Göteborg med fokus på fullstack. Jag gillar 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
 
 **Frontend:**  
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -31,22 +38,24 @@ Webbutvecklingsstudent på Yrgo i Göteborg med fokus på fullstack. Jag gillar 
 [![Composer](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=fff)](#)
 [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
 [![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?logo=nodemon&logoColor=fff)](#)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
+[![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](#)
 
 **Design:**  
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 
 **Lär mig just nu:**  
-[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
-[![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
-[![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](#)
 
 **Kommande:**  
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
 
 ## Utvalda projekt
+
+### [Cavelli Atelier - Admin Tool](https://github.com/HannaJ95/Cavelli-Atelier)
+Grupprojekt där vi byggt ett fullstack webshop-adminverktyg i Laravel med CRUD för möbelprodukter, filtrering, paginering och tillgänglighetsanpassning (a11y). Vi skapade gemensamt en design i Figma och mitt huvudansvar var CRUD-funktionaliteten för produkter.
+**Teknologier:** Laravel, PHP, MySQL, Blade, Tailwind, JavaScript, Figma
 
 ### [Yrgopelag - Hotellbokningssystem](https://github.com/HannaJ95/yrgopelag)
 **[Live site](https://hannajohansson01.se/LOST-ISLAND-HOTEL/)**  
@@ -62,11 +71,6 @@ Individuellt projekt där jag byggde en responsiv webbapplikation mot TheCocktai
 
 ## Pågående projekt
 
-### Furniture Shop Admin
-Grupprojekt där vi bygger ett fullstack webshop-adminverktyg i Laravel med CRUD för möbelprodukter, filtrering, paginering och tillgänglighetsanpassning (a11y). Mer info kommer.  
-**Teknologier:** Laravel, PHP, MySQL, Blade
-
-## Kontakt
-[LinkedIn](https://linkedin.com/in/hanna-johansson-b84aba289)  
-[Portfolio](https://hannajohansson01.se)  
-hannajohansson16@hotmail.com
+### Mingle-tool App
+Grupprojekt där vi bygger en app för att underlätta att starta samtal mellan människor på nätverksevent. Deltagarna skall delas in i grupper och få några olika frågor för att starta igång samtal med varandra.
+**Teknologier:** React, Node.js, HTML5, Tailwind, WebSocket
