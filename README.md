@@ -21,6 +21,7 @@ Webbutvecklingsstudent på Yrgo i Göteborg med fokus på fullstack. Jag gillar 
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-000000?style=for-the-badge&logo=cshrp&logoColor=white)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)](#)
 
+**Databas:**  
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 [![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white)](#)
