@@ -14,8 +14,7 @@ Webbutvecklingsstudent på Yrgo i Göteborg med fokus på fullstack. Jag gillar 
 
 ## Teknologier
 
-**Backend:**  
-![TITLE](https://img.shields.io/badge/BACKEND:-000000?style=for-the-badge&logoColor=white)   
+**Backend:**    
 ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white)
 [![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=white)](#)
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
@@ -44,7 +43,7 @@ Webbutvecklingsstudent på Yrgo i Göteborg med fokus på fullstack. Jag gillar 
 [![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white)](#)
 [![WordPress](https://img.shields.io/badge/WordPress-000000?style=for-the-badge&logo=wordpress&logoColor=white)](#)
 
-**Ramverk:**
+**Ramverk:**  
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](#)
 
 **Design:**  
