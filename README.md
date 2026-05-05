@@ -15,10 +15,12 @@ Webbutvecklingsstudent på Yrgo i Göteborg med fokus på fullstack. Jag gillar 
 ## Teknologier
 
 **Backend:**  
+![TITLE](https://img.shields.io/badge/BACKEND:-000000?style=for-the-badge&logoColor=white)   
 ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white)
 [![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=white)](#)
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-000000?style=for-the-badge&logo=cshrp&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)](#)
 
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
@@ -42,18 +44,21 @@ Webbutvecklingsstudent på Yrgo i Göteborg med fokus på fullstack. Jag gillar 
 [![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white)](#)
 [![WordPress](https://img.shields.io/badge/WordPress-000000?style=for-the-badge&logo=wordpress&logoColor=white)](#)
 
+**Ramverk:**
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](#)
+
 **Design:**  
 [![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)](#)
-
-**Lär mig just nu:**  
-[![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)](#)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](#)
 
 ## Utvalda projekt
 
 ### [Cavelli Atelier - Admin Tool](https://github.com/HannaJ95/Cavelli-Atelier)
 Grupprojekt där vi byggt ett fullstack webshop-adminverktyg i Laravel med CRUD för möbelprodukter, filtrering, paginering och tillgänglighetsanpassning (a11y). Vi skapade gemensamt en design i Figma och mitt huvudansvar var CRUD-funktionaliteten för produkter.
 **Teknologier:** Laravel, PHP, MySQL, Blade, Tailwind, JavaScript, Figma
+
+### [Mingle-tool App](https://github.com/HannaJ95/mingle-tool)
+Grupprojekt där vi bygger en app för att underlätta att starta samtal mellan människor på nätverksevent. Deltagarna skall delas in i grupper och få några olika frågor för att starta igång samtal med varandra.
+**Teknologier:** React, Node.js, HTML5, Tailwind, WebSocket
 
 ### [Yrgopelag - Hotellbokningssystem](https://github.com/HannaJ95/yrgopelag)
 **[Live site](https://hannajohansson01.se/LOST-ISLAND-HOTEL/)**  
@@ -69,6 +74,8 @@ Individuellt projekt där jag byggde en responsiv webbapplikation mot TheCocktai
 
 ## Pågående projekt
 
-### Mingle-tool App
-Grupprojekt där vi bygger en app för att underlätta att starta samtal mellan människor på nätverksevent. Deltagarna skall delas in i grupper och få några olika frågor för att starta igång samtal med varandra.
-**Teknologier:** React, Node.js, HTML5, Tailwind, WebSocket
+
+### [What The Fluff?](https://github.com/mariatedeman/what-the-fluff)
+Grupprojekt där vi bygger ett webbaserat tivoli-spel som en del av ett större tivoli-projekt. Spelet går ut på att fånga fallande sockervaddar med en plattform som styrs via mus, tangentbord eller touch.  
+**Teknologier:**
+Next.js, React, TypeScript, Tailwind CSS
