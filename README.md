@@ -78,4 +78,4 @@ Individuellt projekt där jag byggde en responsiv webbapplikation mot TheCocktai
 ### [What The Fluff?](https://github.com/mariatedeman/what-the-fluff)
 Grupprojekt där vi bygger ett webbaserat tivoli-spel som en del av ett större tivoli-projekt. Spelet går ut på att fånga fallande sockervaddar med en plattform som styrs via mus, tangentbord eller touch.  
 **Teknologier:**
-Next.js, React, TypeScript, Tailwind CSS
+React, TypeScript, Tailwind CSS
