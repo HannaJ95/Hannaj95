@@ -61,14 +61,14 @@ Grupprojekt där vi bygger en app för att underlätta att starta samtal mellan 
 **Teknologier:** React, Node.js, HTML5, Tailwind, WebSocket
 
 ### [Yrgopelag - Hotellbokningssystem](https://github.com/HannaJ95/yrgopelag)
-**[Live site](https://hannajohansson01.se/LOST-ISLAND-HOTEL/)**  
+**[Live site](https://lost-island.hannajohansson01.se)**  
 Individuellt fullstack-projekt med fokus på backend där jag utvecklade ett hotellbokningssystem
 med integration mot externt REST API för betalningshantering samt en skyddad adminsida
 för att hantera rumspriser, rabatter, erbjudanden och bokningar.  
 **Teknologier:** PHP, SQLite, JavaScript, HTML, CSS, REST API
 
 ### [Drink Recipe Finder](https://github.com/HannaJ95/Drink-Recipe-Finder)
-**[Live site](https://hannajohansson01.se/Drink-Recipe-Finder/)**  
+**[Live site](https://drink-recipe-finder.hannajohansson01.se)**  
 Individuellt projekt där jag byggde en responsiv webbapplikation mot TheCocktailDB API. Applikationen låter användaren filtrera drinkar via dropdown och presenterar ett slumpmässigt recept med ingredienslista och instruktioner.  
 **Teknologier:** JavaScript, HTML5, CSS3, Fetch API
 
