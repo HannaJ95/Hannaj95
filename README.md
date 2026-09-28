@@ -68,12 +68,7 @@ Group project where we're building an app to make it easier to start conversatio
 **Technologies:** React, Node.js, HTML5, Tailwind, WebSocket
 
 ### [Yrgopelag - Hotel Booking System](https://github.com/HannaJ95/yrgopelag)
-**[Live site](https://lost-island.hannajohansson01.se)**  
 Individual fullstack project with a focus on backend where I developed a hotel booking system with integration to an external REST API for payment handling, as well as a protected admin page
 for managing room prices, discounts, offers and bookings.  
 **Technologies:** PHP, SQLite, JavaScript, HTML, CSS, REST API
 
-### [Drink Recipe Finder](https://github.com/HannaJ95/Drink-Recipe-Finder)
-**[Live site](https://drink-recipe-finder.hannajohansson01.se)**  
-Individual project where I built a responsive web application against TheCocktailDB API. The application lets the user filter drinks via a dropdown and presents a random recipe with an ingredient list and instructions.  
-**Technologies:** JavaScript, HTML5, CSS3, Fetch API
